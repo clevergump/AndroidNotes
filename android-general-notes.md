@@ -17,11 +17,12 @@
 - gityuan-Android内存分析命令(内容较概括) http://gityuan.com/2016/01/02/memory-analysis-command/
 - CSDN-Android的进程回收机制 https://blog.csdn.net/hello_zhou/article/details/50250801
 
-# 2. Bitmap-related
+# 2. Images & graphics
 
 **Articles:**
 
-- AndroidDeveloper官网-Handling bitmaps https://developer.android.com/topic/performance/graphics/
+- AndroidDeveloper官网-Guides-Images & graphics https://developer.android.com/guide/topics/graphics/
+  - Handling bitmaps https://developer.android.com/topic/performance/graphics/
 - AndroidDeveloper官网-Managing Bitmap Memory https://developer.android.com/topic/performance/graphics/manage-memory
 - AndroidDeveloper官网-Loading Large Bitmaps Efficiently https://developer.android.com/topic/performance/graphics/load-bitmap
 
