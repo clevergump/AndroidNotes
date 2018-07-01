@@ -22,3 +22,7 @@
 
      deprecated.   @see  ARGB_8888
 
+2. **BitmapFactory.Options 类**
+
+   ​
+

@@ -23,8 +23,14 @@
 
 - AndroidDeveloper官网-Guides-Images & graphics https://developer.android.com/guide/topics/graphics/
   - Handling bitmaps https://developer.android.com/topic/performance/graphics/
-- AndroidDeveloper官网-Managing Bitmap Memory https://developer.android.com/topic/performance/graphics/manage-memory
+
+    主要看文末的 More resources
+
 - AndroidDeveloper官网-Loading Large Bitmaps Efficiently https://developer.android.com/topic/performance/graphics/load-bitmap
+
+- AndroidDeveloper官网-Caching Bitmaps https://developer.android.com/topic/performance/graphics/cache-bitmap
+
+- AndroidDeveloper官网-Managing Bitmap Memory https://developer.android.com/topic/performance/graphics/manage-memory
 
 **Samples:**
 
