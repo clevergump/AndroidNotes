@@ -19,6 +19,7 @@
    - gityuan-Android内存分析命令(内容较概括) http://gityuan.com/2016/01/02/memory-analysis-command/
    - CSDN-Android的进程回收机制 https://blog.csdn.net/hello_zhou/article/details/50250801
    - fish-Android native内存检测 https://zhuanlan.zhihu.com/p/29176806
+   - hukai-Android内存优化之OOM http://hukai.me/android-performance-oom/
 - 原理
    - LeakCanary:
       - LeakCanary 内存泄露监测原理研究 https://www.jianshu.com/p/5ee6b471970e
