@@ -23,7 +23,7 @@
    - hukai-Android内存优化之OOM http://hukai.me/android-performance-oom/
    - bugly-Android 内存优化总结&实践 https://mp.weixin.qq.com/s/2MsEAR9pQfMr1Sfs7cPdWQ
    - MAT - Memory Analyzer Tool 使用进阶 http://www.lightskystreet.com/2015/09/01/mat_usage/
-   - bugli-Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？ https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6&scene=21#wechat_redirect
+   - bugly-Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？ https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6&scene=21#wechat_redirect
 - 原理
    - LeakCanary:
       - LeakCanary 内存泄露监测原理研究 https://www.jianshu.com/p/5ee6b471970e
