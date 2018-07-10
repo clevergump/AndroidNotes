@@ -28,6 +28,9 @@
    - LeakCanary:
       - LeakCanary 内存泄露监测原理研究 https://www.jianshu.com/p/5ee6b471970e
       - fish-LeakCanary原理解析 https://zhuanlan.zhihu.com/p/34672399
+- 实例
+   - wetest-LeakCanary+Jenkins内存泄漏监控实践 http://wetest.qq.com/lab/view/175.html
+   - wetest-专项：Android 内存泄露实践分析 http://wetest.qq.com/lab/view/161.html
 
 
 # 2. Images & graphics
