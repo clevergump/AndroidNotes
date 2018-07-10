@@ -12,9 +12,10 @@
 
 ## (2) RAM
 - 理论
+   - AndroidDeveloper官网-Overview of memory management https://developer.android.com/topic/performance/memory-overview
    - AndroidDeveloper官网-Manage your app's memory https://developer.android.com/topic/performance/memory
-   - AndroidDeveloper官网-使用 Memory Profiler 查看 Java 堆和内存分配 https://developer.android.com/studio/profile/memory-profiler?hl=zh-cn#分析内存的技巧
    - AndroidDeveloper官网-调查 RAM 使用情况 https://developer.android.com/studio/profile/investigate-ram?hl=zh-cn
+   - AndroidDeveloper官网-使用 Memory Profiler 查看 Java 堆和内存分配 https://developer.android.com/studio/profile/memory-profiler?hl=zh-cn#分析内存的技巧
    - AOSP官网-调试本地内存使用 https://source.android.com/devices/tech/debug/native-memory
    - gityuan-Android内存分析命令(内容较概括) http://gityuan.com/2016/01/02/memory-analysis-command/
    - CSDN-Android的进程回收机制 https://blog.csdn.net/hello_zhou/article/details/50250801
