@@ -7,6 +7,7 @@
 - fish-Android性能检测工具 https://zhuanlan.zhihu.com/p/31828854
 
 ## (1) ANR
+- AndroidDeveloper官网-Keeping your app responsive https://developer.android.com/training/articles/perf-anr
 - gityuan-Input系统—ANR原理分析(原理) http://gityuan.com/2017/01/01/input-anr/
 - duanqz-ANR机制以及问题分析(原理+实战) http://duanqz.github.io/2015-10-12-ANR-Analysis
 
