@@ -4,7 +4,10 @@
 
 # 1. performance
 ## (0) General
-- fish-Android性能检测工具 https://zhuanlan.zhihu.com/p/31828854
+- 理论
+   - AndroidDeveloper官网-Performance tips https://developer.android.com/training/articles/perf-tips
+- 工具
+   - fish-Android性能检测工具 https://zhuanlan.zhihu.com/p/31828854
 
 ## (1) ANR
 - AndroidDeveloper官网-Keeping your app responsive https://developer.android.com/training/articles/perf-anr
