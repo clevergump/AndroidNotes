@@ -11,6 +11,8 @@
 - duanqz-ANR机制以及问题分析(原理+实战) http://duanqz.github.io/2015-10-12-ANR-Analysis
 
 ## (2) RAM
+- 工具
+   - AndroidDeveloper官网-[AS 3.0以前]Memory Monitor https://developer.android.com/studio/profile/am-memory 
 - 理论
    - AndroidDeveloper官网-Overview of memory management https://developer.android.com/topic/performance/memory-overview
    - AndroidDeveloper官网-Manage your app's memory https://developer.android.com/topic/performance/memory
@@ -32,6 +34,10 @@
 - 实例
    - wetest-LeakCanary+Jenkins内存泄漏监控实践 http://wetest.qq.com/lab/view/175.html
    - wetest-专项：Android 内存泄露实践分析 http://wetest.qq.com/lab/view/161.html
+
+## (3) launch-time 
+- 理论
+   - AndroidDeveloper官网-App Startup Time https://developer.android.com/topic/performance/vitals/launch-time
 
 
 # 2. Images & graphics
