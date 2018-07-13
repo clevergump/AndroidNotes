@@ -65,5 +65,6 @@
 - Github-[googlesamples](https://github.com/googlesamples)/android-DisplayingBitmaps  https://github.com/googlesamples/android-DisplayingBitmaps
 
 # 3. Web
+You can make your web content available to users in two ways: in a traditional web browser and in an Android application, by including a WebView in the layout. 也就是说，**加载一个网页有两种方式，要么用浏览器APP加载，要么在其他APP里使用 WebView加载.**
 - WebView
    - AndroidDeveloper官网-Web-Based Content https://developer.android.com/guide/webapps/
