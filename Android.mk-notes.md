@@ -1,0 +1,2 @@
+- AndroidDevelopers官网-NDK-Android.mk https://developer.android.com/ndk/guides/android_mk?hl=zh-cn#basics
+- Anroid.mk 的编写规则 https://github.com/sulit/learn/blob/master/c/fuse/Android.md
