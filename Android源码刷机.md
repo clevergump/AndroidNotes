@@ -1,2 +1,6 @@
+- AOSP官网
+  - Downloading and Building https://source.android.com/setup/build/requirements
+  - Preparing to Build https://source.android.com/setup/build/building
+  - Running Builds https://source.android.com/setup/build/running
 - 将自己编译的AOSP刷入nexus5 https://www.jianshu.com/p/ff97a4e0d651
 - 刷机中遇到的问题解决方法及一些感悟 https://blog.csdn.net/hellousb2010/article/details/38627599
