@@ -1,0 +1,8 @@
+- 如何预置Android 手机 APK https://blog.csdn.net/wjky2014/article/details/38042945
+- Android4.4应用路径（priv-app）带来的一点权限上的问题 https://blog.csdn.net/zhangjizxc/article/details/19031851
+- LOCAL_PRIVILEGED_MODULE 详解
+  - (1) https://blog.csdn.net/zhanglianyu00/article/details/75099025
+  - (2) https://blog.csdn.net/zhanglianyu00/article/details/75099025
+  - (3) https://blog.csdn.net/zhanglianyu00/article/details/75420583
+  - (4) https://blog.csdn.net/zhanglianyu00/article/details/76086857
+  - (5) https://blog.csdn.net/zhanglianyu00/article/details/76436280
