@@ -49,6 +49,8 @@
 - 理论
    - AndroidDeveloper官网-App Startup Time https://developer.android.com/topic/performance/vitals/launch-time
 
+## (4) apk-size
+- bugly-【译】使用 APK Analyzer 分析你的 APK https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578947&idx=2&sn=1f46a2ad05f1583ac4f9ee1bcf5d832d&chksm=84b3b4c4b3c43dd2d891a74ee8ae938667b706ee63c618e88a38241921e205c4f1d8825a5fa0&scene=21#wechat_redirect
 
 # 2. Images & graphics
 
