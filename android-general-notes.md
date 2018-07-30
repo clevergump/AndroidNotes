@@ -16,6 +16,8 @@
 - AndroidDeveloper官网-Keeping your app responsive https://developer.android.com/training/articles/perf-anr
 - gityuan-Input系统—ANR原理分析(原理) http://gityuan.com/2017/01/01/input-anr/
 - duanqz-ANR机制以及问题分析(原理+实战) http://duanqz.github.io/2015-10-12-ANR-Analysis
+- bugly-读懂ANR的trace文件So easy https://blog.csdn.net/tencent_bugly/article/details/46737697
+- bugly-精神哥手把手教你如何智斗ANR https://blog.csdn.net/tencent_bugly/article/details/46650675
 
 ## (2) RAM
 - 工具
