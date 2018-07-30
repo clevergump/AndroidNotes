@@ -35,6 +35,7 @@
    - MAT - Memory Analyzer Tool 使用进阶 http://www.lightskystreet.com/2015/09/01/mat_usage/
    - bugly-Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？ https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6&scene=21#wechat_redirect
    - Using the Memory Profiler tool https://google-developer-training.gitbooks.io/android-developer-advanced-course-practicals/unit-2-make-your-apps-fast-and-small/lesson-4-performance/4-2-p-memory-profiler/4-2-p-memory-profiler.html
+   - Android 内存分析 https://blog.csdn.net/heng615975867/article/details/51259410
 - 原理
    - LeakCanary:
       - LeakCanary 内存泄露监测原理研究 https://www.jianshu.com/p/5ee6b471970e
