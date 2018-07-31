@@ -83,6 +83,7 @@
 - AndroidDeveloper官网-Managing Bitmap Memory https://developer.android.com/topic/performance/graphics/manage-memory
 - bugly-Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？ https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6&scene=21#wechat_redirect
 - bugly-舞动的表情包——浅析GIF格式图片的存储和压缩 https://mp.weixin.qq.com/s/v0pffOhjFWnVbU2lXjuEmw 或 https://blog.csdn.net/tencent_bugly/article/details/69943509
+- bugly-Android ImageView 正确使用姿势 https://blog.csdn.net/tencent_bugly/article/details/53257180
 
 **Samples:**
 
