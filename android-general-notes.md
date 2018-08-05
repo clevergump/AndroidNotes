@@ -1,4 +1,5 @@
-YouTube-Android Developers https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
+AndroidDevelopers-YouTube https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg   
+AndroidDevelopers-blog https://android-developers.googleblog.com/
 
 # 0. Android 工具
 - dumpsys   
