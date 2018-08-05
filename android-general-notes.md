@@ -71,19 +71,31 @@
 
 **Articles:**
 
-- AndroidDeveloper官网-Guides-Images & graphics https://developer.android.com/guide/topics/graphics/
-  - Handling bitmaps https://developer.android.com/topic/performance/graphics/
+- AndroidDeveloper官网
+   - Guides-Images & graphics https://developer.android.com/guide/topics/graphics/
+      - Handling bitmaps https://developer.android.com/topic/performance/graphics/
+         主要看文末的 More resources 中的 youtube视频
+   - Loading Large Bitmaps Efficiently https://developer.android.com/topic/performance/graphics/load-bitmap
+   - Caching Bitmaps https://developer.android.com/topic/performance/graphics/cache-bitmap
+   - Managing Bitmap Memory https://developer.android.com/topic/performance/graphics/manage-memory
 
-    主要看文末的 More resources
-
-- AndroidDeveloper官网-Loading Large Bitmaps Efficiently https://developer.android.com/topic/performance/graphics/load-bitmap
-
-- AndroidDeveloper官网-Caching Bitmaps https://developer.android.com/topic/performance/graphics/cache-bitmap
-
-- AndroidDeveloper官网-Managing Bitmap Memory https://developer.android.com/topic/performance/graphics/manage-memory
-- bugly-Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？ https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6&scene=21#wechat_redirect
-- bugly-舞动的表情包——浅析GIF格式图片的存储和压缩 https://mp.weixin.qq.com/s/v0pffOhjFWnVbU2lXjuEmw 或 https://blog.csdn.net/tencent_bugly/article/details/69943509
-- bugly-Android ImageView 正确使用姿势 https://blog.csdn.net/tencent_bugly/article/details/53257180
+- Google开发人员的文章
+   - Colt McAnlis https://medium.com/@duhroach
+      - How PNG Works https://medium.com/@duhroach/how-png-works-f1174e3cc7b7
+      - Reducing PNG file Size https://medium.com/@duhroach/reducing-png-file-size-8473480d0476
+      - Smaller PNGs, and Android’s AAPT tool https://medium.com/@duhroach/smaller-pngs-and-android-s-aapt-tool-4ce38a24019d
+      - How JPG Works https://medium.freecodecamp.org/how-jpg-works-a4dbd2316f35
+      - Reducing JPG File size https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c
+      - How VectorDrawable works https://medium.com/@duhroach/how-vectordrawable-works-fed96e110e35
+      - Smaller VectorDrawable files https://medium.com/@duhroach/smaller-vectordrawable-files-dd70e2874773
+      - How WebP works (lossly mode) https://medium.com/@duhroach/how-webp-works-lossly-mode-33bd2b1d0670
+      - Hidden data in your image files https://medium.com/@duhroach/hidden-data-in-your-image-files-a68ad61081b8
+      - When should you resize your network images? https://medium.com/@duhroach/when-should-you-resize-your-network-images-e0e9a4d62162
+      
+- bugly
+   - Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？ https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6&scene=21#wechat_redirect
+   - 舞动的表情包——浅析GIF格式图片的存储和压缩 https://mp.weixin.qq.com/s/v0pffOhjFWnVbU2lXjuEmw 或 https://blog.csdn.net/tencent_bugly/article/details/69943509
+   - Android ImageView 正确使用姿势 https://blog.csdn.net/tencent_bugly/article/details/53257180
 
 **Samples:**
 
