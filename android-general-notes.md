@@ -1,7 +1,10 @@
+YouTube-Android Developers https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
+
 # 0. Android 工具
 - dumpsys   
    - AndroidDeveloper官网 https://developer.android.com/studio/command-line/dumpsys   
 - gradle
+
    - dependencies
       - Android Studio3.0中dependencies依赖由compile变为implementation的区别 https://blog.csdn.net/SilenceOO/article/details/78735687
 
