@@ -2,7 +2,7 @@ YouTube-Android Developers https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0
 
 # 0. Android 工具
 - dumpsys   
-   - AndroidDeveloper官网 https://developer.android.com/studio/command-line/dumpsys   
+   - AndroidDevelopers官网 https://developer.android.com/studio/command-line/dumpsys   
 - gradle
 
    - dependencies
@@ -11,12 +11,13 @@ YouTube-Android Developers https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0
 # 1. performance
 ## (0) General
 - 理论
-   - AndroidDeveloper官网-Performance tips https://developer.android.com/training/articles/perf-tips
+   - AndroidDevelopers官网-Performance tips https://developer.android.com/training/articles/perf-tips
+   - AndroidDevelopers-YouTube-Android Performance Patterns https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
 - 工具
    - fish-Android性能检测工具 https://zhuanlan.zhihu.com/p/31828854
 
 ## (1) ANR
-- AndroidDeveloper官网-Keeping your app responsive https://developer.android.com/training/articles/perf-anr
+- AndroidDevelopers官网-Keeping your app responsive https://developer.android.com/training/articles/perf-anr
 - gityuan-Input系统—ANR原理分析(原理) http://gityuan.com/2017/01/01/input-anr/
 - duanqz-ANR机制以及问题分析(原理+实战) http://duanqz.github.io/2015-10-12-ANR-Analysis
 - bugly-读懂ANR的trace文件So easy https://blog.csdn.net/tencent_bugly/article/details/46737697
@@ -24,15 +25,15 @@ YouTube-Android Developers https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0
 
 ## (2) RAM
 - 工具
-   - AndroidDeveloper官网-[AS 3.0以前]Memory Monitor https://developer.android.com/studio/profile/am-memory 
+   - AndroidDevelopers官网-[AS 3.0以前]Memory Monitor https://developer.android.com/studio/profile/am-memory 
 - 视频
    - 阿里巴巴-Android内存优化 http://www.infoq.com/cn/presentations/android-memory-optimization
 - 理论
-   - AndroidDeveloper官网-Overview of memory management https://developer.android.com/topic/performance/memory-overview
-   - AndroidDeveloper官网-Manage your app's memory https://developer.android.com/topic/performance/memory
-   - AndroidDeveloper官网-调查 RAM 使用情况 https://developer.android.com/studio/profile/investigate-ram?hl=zh-cn
-   - AndroidDeveloper官网-利用 Android Profiler 测量应用性能 https://developer.android.com/studio/profile/android-profiler?hl=zh-cn
-   - AndroidDeveloper官网-使用 Memory Profiler 查看 Java 堆和内存分配 https://developer.android.com/studio/profile/memory-profiler?hl=zh-cn#分析内存的技巧
+   - AndroidDevelopers官网-Overview of memory management https://developer.android.com/topic/performance/memory-overview
+   - AndroidDevelopers官网-Manage your app's memory https://developer.android.com/topic/performance/memory
+   - AndroidDevelopers官网-调查 RAM 使用情况 https://developer.android.com/studio/profile/investigate-ram?hl=zh-cn
+   - AndroidDevelopers官网-利用 Android Profiler 测量应用性能 https://developer.android.com/studio/profile/android-profiler?hl=zh-cn
+   - AndroidDevelopers官网-使用 Memory Profiler 查看 Java 堆和内存分配 https://developer.android.com/studio/profile/memory-profiler?hl=zh-cn#分析内存的技巧
    - AOSP官网-调试本地内存使用 https://source.android.com/devices/tech/debug/native-memory
    - gityuan-Android内存分析命令(内容较概括) http://gityuan.com/2016/01/02/memory-analysis-command/
    - CSDN-Android的进程回收机制 https://blog.csdn.net/hello_zhou/article/details/50250801
@@ -62,7 +63,7 @@ YouTube-Android Developers https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0
 
 ## (3) launch-time 
 - 理论
-   - AndroidDeveloper官网-App Startup Time https://developer.android.com/topic/performance/vitals/launch-time
+   - AndroidDevelopers官网-App Startup Time https://developer.android.com/topic/performance/vitals/launch-time
 
 ## (4) apk-size
 - bugly-【译】使用 APK Analyzer 分析你的 APK https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578947&idx=2&sn=1f46a2ad05f1583ac4f9ee1bcf5d832d&chksm=84b3b4c4b3c43dd2d891a74ee8ae938667b706ee63c618e88a38241921e205c4f1d8825a5fa0&scene=21#wechat_redirect
@@ -74,7 +75,7 @@ YouTube-Android Developers https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0
 
 **Articles:**
 
-- AndroidDeveloper官网
+- AndroidDevelopers官网
    - Guides-Images & graphics https://developer.android.com/guide/topics/graphics/
       - Handling bitmaps https://developer.android.com/topic/performance/graphics/
          主要看文末的 More resources 中的 youtube视频
@@ -107,4 +108,4 @@ YouTube-Android Developers https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0
 # 3. Web
 You can make your web content available to users in two ways: in a traditional web browser and in an Android application, by including a WebView in the layout. 也就是说，**加载一个网页有两种方式，要么用浏览器APP加载，要么在其他APP里使用 WebView加载.**
 - WebView
-   - AndroidDeveloper官网-Web-Based Content https://developer.android.com/guide/webapps/
+   - AndroidDevelopers官网-Web-Based Content https://developer.android.com/guide/webapps/
