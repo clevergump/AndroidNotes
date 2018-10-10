@@ -14,6 +14,7 @@ AndroidDevelopers-blog https://android-developers.googleblog.com/
 - 理论
    - AndroidDevelopers官网-Performance tips https://developer.android.com/training/articles/perf-tips
    - AndroidDevelopers-YouTube-Android Performance Patterns https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
+   - blog-Gracker https://www.androidperformance.com/
 - 工具
    - fish-Android性能检测工具 https://zhuanlan.zhihu.com/p/31828854
 
