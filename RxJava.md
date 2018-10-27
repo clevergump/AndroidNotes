@@ -1,7 +1,6 @@
 - Github
   - Github-RxJava https://github.com/ReactiveX/RxJava
   - Github-RxAndroid https://github.com/ReactiveX/RxAndroid
-
 - blog
   - 给初学者的RxJava2.0教程(一) https://www.jianshu.com/p/464fa025229e
   - 关于RxJava最友好的文章 https://juejin.im/post/580103f20e3dd90057fc3e6d
@@ -11,7 +10,8 @@
   - RxJava 沉思录（二）：空间维度 https://juejin.im/post/5b8f5470e51d450e3d2c8ddf
   - RxJava 沉思录（三）：时间维度 https://juejin.im/post/5b8f5ea8f265da0a9223887e
   - RxJava 沉思录（四）：总结 https://juejin.im/post/5b8f5f0ee51d450ea52f6a37
-
 - 视频
   - 掘金小册-响应式编程 —— RxJava 高阶指南 https://juejin.im/book/5a09997cf265da432002bf6a
+- others
+  - NotRxJava guide for lazy folks https://yarikx.github.io/NotRxJava/
 
