@@ -2,6 +2,9 @@
   - Github-RxJava https://github.com/ReactiveX/RxJava
   - Github-RxAndroid https://github.com/ReactiveX/RxAndroid
 
+- 知乎
+  - 有什么使用了RxJava或RxAndroid的开源项目？ https://www.zhihu.com/question/35511144
+
 - blog
   - 给初学者的RxJava2.0教程(一) https://www.jianshu.com/p/464fa025229e
   - 关于RxJava最友好的文章 https://juejin.im/post/580103f20e3dd90057fc3e6d
