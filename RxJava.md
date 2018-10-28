@@ -3,17 +3,35 @@
   - Github-RxAndroid https://github.com/ReactiveX/RxAndroid
 
 - 知乎
+  - Android Rxjava学习资料有哪些？ https://www.zhihu.com/question/40919273
   - 有什么使用了RxJava或RxAndroid的开源项目？ https://www.zhihu.com/question/35511144
+  - 谁来讲讲Rxjava、rxandroid中的操作符的作用? https://www.zhihu.com/question/32209660
 
 - blog
-  - 给初学者的RxJava2.0教程(一) https://www.jianshu.com/p/464fa025229e
-  - 关于RxJava最友好的文章 https://juejin.im/post/580103f20e3dd90057fc3e6d
-  - 关于RxJava最友好的文章——背压（Backpressure） https://juejin.im/post/582d413c8ac24700619cceed
-  - 关于 RxJava 最友好的文章—— RxJava 2.0 全新来袭 https://juejin.im/post/582b2c818ac24700618ff8f5
-  - RxJava 沉思录（一）：你认为 RxJava 真的好用吗？https://juejin.im/post/5b8f536c5188255c352d3528
-  - RxJava 沉思录（二）：空间维度 https://juejin.im/post/5b8f5470e51d450e3d2c8ddf
-  - RxJava 沉思录（三）：时间维度 https://juejin.im/post/5b8f5ea8f265da0a9223887e
-  - RxJava 沉思录（四）：总结 https://juejin.im/post/5b8f5f0ee51d450ea52f6a37
+  - 扔物线
+    - 给初学者的RxJava2.0教程(一) https://www.jianshu.com/p/464fa025229e
+  - 大头鬼
+    - 深入浅出RxJava（一：基础篇） https://blog.csdn.net/lzyzsd/article/details/41833541
+    - 深入浅出RxJava(二：操作符) https://blog.csdn.net/lzyzsd/article/details/44094895
+    - 深入浅出RxJava三--响应式的好处 https://blog.csdn.net/lzyzsd/article/details/44891933
+    - 深入浅出RxJava四-在Android中使用响应式编程 https://blog.csdn.net/lzyzsd/article/details/45033611
+  - 张磊
+    - RxJava系列1(简介) https://zhuanlan.zhihu.com/p/20687178
+    - RxJava系列2(基本概念及使用介绍) https://zhuanlan.zhihu.com/p/20687307
+    - RxJava系列3(转换操作符) https://zhuanlan.zhihu.com/p/21926591
+    - RxJava系列4(过滤操作符) https://zhuanlan.zhihu.com/p/21966621
+    - RxJava系列5(组合操作符) https://zhuanlan.zhihu.com/p/22039934
+    - RxJava系列6(从微观角度解读RxJava源码) https://zhuanlan.zhihu.com/p/22338235
+    - RxJava系列7(最佳实践) https://zhuanlan.zhihu.com/p/23108381
+  - 拉丁吴
+    - 关于RxJava最友好的文章 https://juejin.im/post/580103f20e3dd90057fc3e6d
+    - 关于RxJava最友好的文章——背压（Backpressure） https://juejin.im/post/582d413c8ac24700619cceed
+    - 关于 RxJava 最友好的文章—— RxJava 2.0 全新来袭 https://juejin.im/post/582b2c818ac24700618ff8f5
+  - prototypez
+    - RxJava 沉思录（一）：你认为 RxJava 真的好用吗？https://juejin.im/post/5b8f536c5188255c352d3528
+    - RxJava 沉思录（二）：空间维度 https://juejin.im/post/5b8f5470e51d450e3d2c8ddf
+    - RxJava 沉思录（三）：时间维度 https://juejin.im/post/5b8f5ea8f265da0a9223887e
+    - RxJava 沉思录（四）：总结 https://juejin.im/post/5b8f5f0ee51d450ea52f6a37
 
 - 视频
   - 掘金小册-响应式编程 —— RxJava 高阶指南 https://juejin.im/book/5a09997cf265da432002bf6a
