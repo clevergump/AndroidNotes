@@ -1,0 +1,2 @@
+1. Arrays.asList() 返回的 ArrayList 是Arrays类的内部类，是没有 add（）等方法的一个类，所以如果返回的 list对象未来有添加元素的需求，就不要用这个API，可以把这个 list 外层作为内层list包装在外层的常用list内，例如：使用 new LinkedList(Arrays.asList())
+2. Collections.emptyList()方法返回的是一个不可更改的list，所以未来该list如果有改变元素的需求，则不能直接用这个API，而要换其他API，或者使用这个API 作为内层list, 外层使用常用 list包装一层。
