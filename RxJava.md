@@ -37,6 +37,7 @@
     - RxJava 沉思录（四）：总结 https://juejin.im/post/5b8f5f0ee51d450ea52f6a37
   - 其他
     - 给初学者的RxJava2.0教程(一) https://www.jianshu.com/p/464fa025229e
+    - [译] RxAndroid 中文教程 https://juejin.im/entry/5884374e570c350062c1ac3b/
 
 - 视频
   - 掘金小册-响应式编程 —— RxJava 高阶指南 https://juejin.im/book/5a09997cf265da432002bf6a
