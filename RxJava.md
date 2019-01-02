@@ -1,10 +1,14 @@
 - Github
   - Github-RxJava https://github.com/ReactiveX/RxJava
   - Github-RxAndroid https://github.com/ReactiveX/RxAndroid
+  - THEONE10211024/RxJavaSamples https://github.com/THEONE10211024/RxJavaSamples?utm_source=androidweekly.io&utm_medium=website
 - 知乎
   - Android Rxjava学习资料有哪些？ https://www.zhihu.com/question/40919273
   - 有什么使用了RxJava或RxAndroid的开源项目？ https://www.zhihu.com/question/35511144
   - 谁来讲讲Rxjava、rxandroid中的操作符的作用? https://www.zhihu.com/question/32209660
+
+- 网站
+  - Android开发技术周报特刊之RxJava&RxAndroid Issue#0 https://www.androidweekly.cn/android-dev-special-weekly-rxjava-rxandroid-issue-0/
 
 - blog
   - 扔物线
